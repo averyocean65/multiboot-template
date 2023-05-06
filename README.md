@@ -11,7 +11,7 @@ Assembly code provided by [CodePulse](https://github.com/davidcallanan) from his
 - [xorriso](https://www.gnu.org/software/xorriso/)
 - [QEMU](https://www.qemu.org/)
 - [mtools](https://www.gnu.org/software/mtools/)
-- GNU Grub CLI toolchain
+- grub-common
 
 ## Resources
 - [OSDev Wiki](https://wiki.osdev.org/Main_Page)
