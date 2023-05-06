@@ -153,13 +153,13 @@ long_mode_start:
     mov gs, ax
 
 	; Early kernel entry, set up critical endpoints like the GDT here
-	call kernel_early_main ; Defined in src/kernel/kernel.c
+    call kernel_early_main ; Defined in src/kernel/kernel.c
 
 	; Main execution code
     call kernel_main ; Defined in src/kernel/kernel.c
 
     ; Execute final bit of C-Code to clean up
-	call kernel_end ; Defined in src/kernel/kernel.c
+    call kernel_end ; Defined in src/kernel/kernel.c
 
 	; Halt ( in-case a hlt instruction wasn't defined in kernel_end )
 	hlt

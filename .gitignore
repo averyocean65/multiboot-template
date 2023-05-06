@@ -1,4 +1,4 @@
-iso/boot/avsys.bin
+iso/boot/*.bin
 *.iso
 
 obj/
