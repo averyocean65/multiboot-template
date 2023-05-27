@@ -17,4 +17,4 @@ Assembly code provided by [CodePulse](https://github.com/davidcallanan) from his
 - [OSDev Wiki](https://wiki.osdev.org/Main_Page)
 
 ## Help
-If you have any question, feel free to [open an issue](https://github.com/averyocean65/avsys/issues/new)!
+If you have any question, feel free to [open an issue](https://github.com/averyocean65/multiboot-template/issues/new)!
